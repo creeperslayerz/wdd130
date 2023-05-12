@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 400px;
+    margin: auto;
+}
+ol {
+    color: black;
+    text-align: left;
+}
+#quote1 {
+    font-size: 10px;
+}
+#quote2 {
+    font-size: 30px;
+}
+#quote2source {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}

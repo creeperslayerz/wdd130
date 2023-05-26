@@ -29,8 +29,9 @@ nav a:hover {
     font-size: 2em;
     margin-top: 10px;
 }
+/* Do I like Navy better than #454ADE? */
 body {
-    background-color: #454ADE;
+    background-color: navy; 
     color: white;
     font-family: Inter, Helvetica, sans-serif;
     font-size: 22px;
